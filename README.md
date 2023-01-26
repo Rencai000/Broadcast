@@ -36,13 +36,3 @@ $ node index.js
 contoh penginputan nomorya: ```["6281259261277","62812710385261","6289530877869"]```<br>
 Ingat ya seperti di atas jangan sampai salah, kalau salah botnya gak bisa jalan.
 
-Bot masih banyak kekurangan, kalian bisa mengembangkannya sendiri supaya lebih bagus.
-
-## Donate
-[Saweria](https://saweria.co/sansekai)
-
-## License
-[MIT License](https://github.com/Sansekai/WaBot-Broadcast/blob/main/LICENSE)
-
-Copyright (c) 2022 M Yusril
-
